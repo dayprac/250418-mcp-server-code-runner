@@ -1,5 +1,5 @@
 {
-  "name": "mcp-server-code-runner",
+  "name": "@dayprac/mcp-test-suite",
   "version": "0.1.6",
   "type": "module",
   "bin": {
@@ -20,7 +20,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/formulahendry/mcp-server-code-runner.git"
+    "url": "https://github.com/dayprac/250418-mcp-server-code-runner"
   },
   "author": "Jun Han",
   "license": "MIT",
